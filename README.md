@@ -15,7 +15,8 @@ Start the container :
 docker run -p 8080:8080 sipf/zipcode-ws
 ```
 
-You can then log to [http://127.0.0.1:8080](http://127.0.0.1:8080) to use the service.
+You can then log to [http://127.0.0.1:8080](http://127.0.0.1:8080) to use the service or you can simply use this link : 
+ [https://zipcode-ws.herokuapp.com](https://zipcode-ws.herokuapp.com).
 
 ### Default Configuration
 
