@@ -3,6 +3,10 @@
 This project is used for proof of concept only. Of course, you can contribute, you just need to fork 
 and PR your feature.
 
+You can access the data in this repository :
+
+* [https://github.com/sipf/zipcode-ws/blob/develop/src/main/resources/data-h2.sql](https://github.com/sipf/zipcode-ws/blob/develop/src/main/resources/data-h2.sql)
+
 ### Usage
 
 Start the container :
