@@ -29,3 +29,5 @@ spring:
     show-sql: true
   datasource:
     platform: h2
+server:
+  use-forward-headers: true
