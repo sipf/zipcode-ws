@@ -13,6 +13,7 @@ public class Ile {
     @GeneratedValue
     private Long id;
 
+    @Column(nullable = false)
     private String name;
 
     @ManyToOne

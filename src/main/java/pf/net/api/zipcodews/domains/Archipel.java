@@ -13,6 +13,7 @@ public class Archipel {
     @GeneratedValue
     private Long id;
 
+    @Column(nullable = false)
     private String name;
 
     @OneToMany(mappedBy = "archipel")
